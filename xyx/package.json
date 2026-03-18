@@ -1,0 +1,12 @@
+{
+  "name": "xyx",
+  "version": "1.0.0",
+  "description": "WeChat mini-game survival project",
+  "main": "game.js",
+  "scripts": {},
+  "keywords": ["wechat", "minigame", "survival"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
